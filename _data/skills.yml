@@ -1,0 +1,27 @@
+languages:
+  - item: Dart
+  - item: Golang
+  - item: Java
+  - item: Python
+  - item: SQL
+
+frameworks:
+  - item: Flutter
+  - item: React
+  - item: Jekyll
+  - item: Vaadin
+  - item: Next.js
+
+tools:
+  - item: Bash
+  - item: BurpSuite
+  - item: Wireshark
+  - item: NMap
+  - item: VS Code
+
+design:
+  - item: Figma
+  - item: Illustrator
+  - item: Prototyping
+  - item: Wireframing
+  - item: UI Designing

@@ -1,0 +1,36 @@
+- name: Word of the Day (GNOME Extension)
+  url: https://github.com/ar33h/wotd
+  code: https://github.com/ar33h/wotd
+  description: Learn a new word every day and Build your vocabulary with the Word of the Day Shell Extension. 
+  used:
+    - thing: Bash
+    - thing: JavaScript
+    - thing: Wordnik
+    - thing: API
+
+
+- name: Password Manager
+  url: https://github.com/ar33h/PasswordManager
+  code: https://github.com/ar33h/PasswordManager
+  description: Simple Password Manager built using Python that stores and manages user credentials. Passwords are stored in an encrypted database and locked behind a master key.
+  used:
+    - thing: Python
+    - thing: Tkinter
+    - thing: MD5 
+    - thing: Hashlib
+    - thing: MySQL
+    
+
+- name: TAPF's Kitchen Pantry
+  url: https://github.com/ar33h/TAPF-Kitchen-Pantry
+  code: https://github.com/ar33h/TAPF-Kitchen-Pantry
+  description: A management system that allows the Kitchen Administrator at <a class="underline-link" href="https://www.akshayapatra.org/" target="_blank"> The Akshaya Patra Kitchens </a> to carry out operations such as Pantry Item registrations, Recording the Quantity, Expiry Information, Date and Time the item was bought. 
+  used:
+    - thing: HTML
+    - thing: CSS
+    - thing: JavaScript
+    - thing: Bootstrap
+    
+- name: View my Redbubble Store
+  url: https://www.redbubble.com/people/ar33h/shop
+  code: https://www.redbubble.com/people/ar33h/shop
