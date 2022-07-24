@@ -3,7 +3,7 @@ name: Arshdeep's Portfolio
 title: Arshdeep, who?
 description: Final Year Computer Science & Engineering Undergrad at Symbiosis Institute of Technology, Pune. Adept at designing Prototypes and developing Mobile Applications. Cybersecurity Enthusiast with a passion for Vulnerability Management and Threat Intelligence.
 url: https://ar33h.github.io/
-baseurl: 'https://ar33h.github.io/ar33h.github.io'
+baseurl: ""
 # destination: ./docss
 email: arshdeepsingh.singh7@gmail.com
 logo: https://ar33h.github.io/assets/images/favicon.png
