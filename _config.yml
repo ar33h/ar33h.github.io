@@ -1,0 +1,48 @@
+# Site settings
+name: Arshdeep's Portfolio
+title: Arshdeep, who?
+description: Final Year Computer Science & Engineering Undergrad at Symbiosis Institute of Technology, Pune. Adept at designing Prototypes and developing Mobile Applications. Cybersecurity Enthusiast with a passion for Vulnerability Management and Threat Intelligence.
+url: https://ar33h.github.io/
+baseurl: 'https://ar33h.github.io/ar33h.github.io'
+# destination: ./docss
+email: arshdeepsingh.singh7@gmail.com
+logo: https://ar33h.github.io/assets/images/favicon.png
+resume: https://ar33h.github.io/assets/resume/arshdeep_singh.pdf
+redbubble: https://www.redbubble.com/people/ar33h/shop
+social:
+  - title: email
+    url: mailto:arshdeepsingh.singh7@gmail.com
+  - title: linkedin
+    url: https://www.linkedin.com/in/ar33h
+  - title: github
+    url: https://github.com/ar33h
+  - title: instagram
+    url: https://instagram.com/uxsengh
+  - title: dribbble
+    url: https://dribbble.com/ar33h
+  - title: vimeo
+    url: https://vimeo.com/ar33h
+  
+  
+
+# Build settings
+markdown: kramdown
+
+exclude:
+  - 'Gemfile'
+  - 'Gemfile.lock'
+  - '*.gemspec'
+  - 'README.md'
+  - 'node_modules'
+  - 'build'
+  - 'gulpfile.js'
+  - 'package.json'
+
+keep_files:
+  - 'CNAME'
+  - '.git'
+  - '.gitignore'
+
+plugins_dir:
+  - jekyll-minifier
+  - jekyll-sitemap
