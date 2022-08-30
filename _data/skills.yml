@@ -1,7 +1,7 @@
 languages:
-  - item: Dart
-  - item: Golang
   - item: Java
+  - item: Dart
+  - item: C++
   - item: Python
   - item: SQL
 
