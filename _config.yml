@@ -1,14 +1,14 @@
 # Site settings
 name: Arshdeep's Portfolio
 title: Arshdeep, who?
-description: Final Year Computer Science & Engineering Undergrad at Symbiosis Institute of Technology, Pune. Adept at designing Prototypes and developing Mobile Applications. Cybersecurity Enthusiast with a passion for Vulnerability Management and Threat Intelligence.
+description: Software Engineering Intern at Cerence Inc.
 url: https://ar33h.github.io/
 baseurl: ""
 # destination: ./docss
 email: arshdeepsingh.singh7@gmail.com
 logo: https://ar33h.github.io/assets/images/favicon.png
 resume: https://ar33h.github.io/assets/resume/arshdeep_singh.pdf
-redbubble: https://www.redbubble.com/people/ar33h/shop
+store: https://sengh.blinkstore.in
 social:
   - title: email
     url: mailto:arshdeepsingh.singh7@gmail.com
@@ -17,7 +17,7 @@ social:
   - title: github
     url: https://github.com/ar33h
   - title: instagram
-    url: https://instagram.com/uxsengh
+    url: https://instagram.com/senghstore
   - title: dribbble
     url: https://dribbble.com/ar33h
   - title: vimeo
