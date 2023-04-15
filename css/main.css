@@ -750,17 +750,17 @@ strong {
 }
 
 body.night .intro__photo1 {
-    content:  url("/img/white_emoji.png");
+    content:  url("/img/light_emoji.png");
 }
 html.night .intro__photo1 {
-    content:  url("/img/white_emoji.png");
+    content:  url("/img/light_emoji.png");
 }
 
 body.night .intro__photo2 {
-    content:  url("/img/white_me.png");
+    content:  url("/img/light_me.png");
 }
 html.night .intro__photo2 {
-    content:  url("/img/white_me.png");
+    content:  url("/img/light_me.png");
 }
 
 body.night .project__privv {
