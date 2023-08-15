@@ -1,34 +1,25 @@
-- name: Word of the Day (GNOME Extension)
-  url: https://github.com/ar33h/wotd
-  code: https://github.com/ar33h/wotd
-  description: Learn a new word every day and Build your vocabulary with the Word of the Day Shell Extension. 
+- name: SESMIC 
+  url: https://sesmic.sitpune.edu.in/
+  code: https://raw.githubusercontent.com/ar33h/ar33h.github.io/main/assets/certificates/sesmic.pdf
+  description: Demonstrated a case study on the performance of Wi-Fi sniffers and designed a solution to mitigate potential security risks of deauthentication attacks and presented these findings.
   used:
-    - thing: Bash
-    - thing: JavaScript
-    - thing: Wordnik
-    - thing: API
+    - thing: Dec 2022
+    - thing: SIU, Pune
 
-
-- name: Password Manager
-  url: https://github.com/ar33h/PasswordManager
-  code: https://github.com/ar33h/PasswordManager
-  description: Simple Password Manager built using Python that stores and manages user credentials. Passwords are stored in an encrypted database and locked behind a master key.
+- name: I-nnovate 
+  url: https://www.intelliswift.com/
+  code: https://raw.githubusercontent.com/ar33h/ar33h.github.io/main/assets/certificates/innovate.pdf
+  description: Awarded with best elevator pitch title. Designed a safe and secure end-to-end encrypted and decentralized blockchain messaging application to address privacy concerns in modern day messaging services. 
   used:
-    - thing: Python
-    - thing: Tkinter
-    - thing: MD5 
-    - thing: Hashlib
-    - thing: MySQL
+    - thing: Sept 2022
+    - thing: Intelliswift Software, Pune
     
 
-- name: TAPF's Kitchen Pantry
-  url: https://github.com/ar33h/TAPF-Kitchen-Pantry
-  code: https://github.com/ar33h/TAPF-Kitchen-Pantry
-  description: A management system that allows the Kitchen Administrator at <a class="underline-link" href="https://www.akshayapatra.org/" target="_blank"> The Akshaya Patra Kitchens </a> to carry out operations such as Pantry Item registrations, Recording the Quantity, Expiry Information, Date and Time the item was bought. 
+- name: KakushIN 
+  url: https://www.nomura.com/
+  code: https://raw.githubusercontent.com/ar33h/ar33h.github.io/main/assets/certificates/kakushin.pdf
+  description: Proposed and designed a solution to improving access to primary healthcare in underserved regions of the country through an innovative, reliable, and trustworthy telemedicine platform, called VitaminCare, that can be used to connect doctors to their patients in remote and rural areas.
   used:
-    - thing: HTML
-    - thing: CSS
-    - thing: JavaScript
-    - thing: Bootstrap
-    
+    - thing: Sept 2022
+    - thing: Nomura, Powai
 

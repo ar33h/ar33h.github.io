@@ -1,6 +1,6 @@
 # Portfolio Website 
 
-<h3> First iteration of my portfolio website built with Jekyll </h3>
+<h3> Singh's portfolio website built with Jekyll </h3>
 
 <img src="./banner.png">
 
