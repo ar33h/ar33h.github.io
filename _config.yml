@@ -8,10 +8,9 @@ baseurl: ""
 email: arshdeep.singh4@pace.edu
 logo: https://ar33h.github.io/assets/images/favicon.png
 resume: https://ar33h.github.io/assets/resume/arshdeep_singh.pdf
-store: https://sengh.blinkstore.in
 social:
-  - title: email
-    url: mailto:arshdeep.singh4@pace.edu
+  - title: Twitter
+    url: https://twitter.com/arshdeepsengh
   - title: github
     url: https://github.com/ar33h
   - title: instagram
