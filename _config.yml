@@ -1,24 +1,23 @@
 # Site settings
 name: Arshdeep's Portfolio
 title: Arsh, who?
-description: MS Cybersecurity Graduate Student at Pace University, New York
+description: Cybersecurity Graduate Student at Pace University, New York
 url: https://ar33h.github.io/
 baseurl: ""
 # destination: ./docss
 email: arshdeep.singh4@pace.edu
 logo: https://ar33h.github.io/assets/images/favicon.png
-resume: https://ar33h.github.io/assets/resume/arshdeep_singh.pdf
 social:
   - title: Twitter
     url: https://twitter.com/arshdeepsengh
-  - title: github
-    url: https://github.com/ar33h
-  - title: instagram
+  - title: Instagram
     url: https://instagram.com/arshdeepsengh
   - title: dribbble
     url: https://dribbble.com/ar33h
   - title: vimeo
     url: https://vimeo.com/ar33h
+  - title: github
+    url: https://github.com/ar33h
   
 # Build settings
 markdown: kramdown

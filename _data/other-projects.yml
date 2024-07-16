@@ -1,7 +1,23 @@
+- name: Visa Climate Tech  
+  url: https://visaclimatetechhackathon2024-platform.bemyapp.com/#/event
+  code: https://github.com/ar33h/bettr_earth/
+  description: Designed a sustainable shopping assistant prototype that addresses the critical need for eco-friendly grocery purchasing by providing consumers with accessible information on the environmental impact of their products. 
+  used:
+    - thing: June 2024
+    - thing: Online
+
+- name: "TechDuels Debate: Data Privacy vs National Security"
+  url: https://www.linkedin.com/posts/tech-duels_techduels2024-collegiatedebate-paceuniversity-activity-7186754741983449091-jwlu
+  code: https://raw.githubusercontent.com/ar33h/ar33h.github.io/main/assets/certificates/mvd.jpg
+  description: Awarded with the 'Most Valuable Debater' title for my compelling arguments in favor of data privacy. Emphasized the importance of individual rights and the potential dangers of excessive government surveillance.
+  used:
+    - thing: April 2024
+    - thing: Pace University, New York
+
 - name: SESMIC 
   url: https://sesmic.sitpune.edu.in/
   code: https://raw.githubusercontent.com/ar33h/ar33h.github.io/main/assets/certificates/sesmic.pdf
-  description: Demonstrated a case study on the performance of Wi-Fi sniffers and designed a solution to mitigate potential security risks of deauthentication attacks and presented these findings.
+  description: Demonstrated a case study on the performance of Wi-Fi sniffers and designed a solution to mitigate potential security risks of deauthentication attacks and presented these findings in a report.
   used:
     - thing: Dec 2022
     - thing: SIU, Pune
@@ -9,7 +25,7 @@
 - name: I-nnovate 
   url: https://www.intelliswift.com/
   code: https://raw.githubusercontent.com/ar33h/ar33h.github.io/main/assets/certificates/innovate.pdf
-  description: Awarded with best elevator pitch title. Designed a safe and secure end-to-end encrypted and decentralized blockchain messaging application to address privacy concerns in modern day messaging services. 
+  description: Awarded with the 'Best Elevator Pitch' title. Designed a privacy-first decentralized blockchain-based messaging application to address security concerns in modern day messaging applications. 
   used:
     - thing: Sept 2022
     - thing: Intelliswift Software, Pune
@@ -18,7 +34,7 @@
 - name: KakushIN 
   url: https://www.nomura.com/
   code: https://raw.githubusercontent.com/ar33h/ar33h.github.io/main/assets/certificates/kakushin.pdf
-  description: Proposed and designed a solution to improving access to primary healthcare in underserved regions of the country through an innovative, reliable, and trustworthy telemedicine platform, called VitaminCare, that can be used to connect doctors to their patients in remote and rural areas.
+  description: Prototyped a solution to improve access to primary healthcare in underserved regions of the country through an innovative and reliable telemedicine platform that can be used to connect doctors to patients in remote and rural areas.
   used:
     - thing: Sept 2022
     - thing: Nomura, Powai
