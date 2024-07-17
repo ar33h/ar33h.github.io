@@ -770,18 +770,18 @@ html.night .project__privv {
     content:  url("/img/featured/privv/privv_light.png");
 }
 
-body.night .project__tpc {
-    content:  url("/img/featured/tpc/tpc_light.png");
+body.night .project__qakbot {
+    content:  url("/img/featured/qakbot/qakbot_light.png");
 }
-html.night .project__tpc {
-    content:  url("/img/featured/tpc/tpc_light.png");
+html.night .project__qakbot {
+    content:  url("/img/featured/qakbot/qakbot_light.png");
 }
 
-body.night .project__weathr {
-    content:  url("/img/featured/weathr/weathr_light.png");
+body.night .project__hackllm {
+    content:  url("/img/featured/hackllm/hackllm_light.png");
 }
-html.night .project__weathr {
-    content:  url("/img/featured/weathr/weathr_light.png");
+html.night .project__hackllm {
+    content:  url("/img/featured/hackllm/hackllm_light.png");
 }
 
 .intro__tagline .name {
