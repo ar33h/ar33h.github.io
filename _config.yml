@@ -8,16 +8,17 @@ baseurl: ""
 email: arshdeep.singh4@pace.edu
 logo: https://ar33h.github.io/assets/images/favicon.png
 social:
+  - title: Resume
+    url: https://ar33h.github.io/assets/resume/singh.pdf
   - title: Twitter
     url: https://twitter.com/arshdeepsengh
   - title: Instagram
     url: https://instagram.com/arshdeepsengh
-  - title: dribbble
+  - title: Dribbble
     url: https://dribbble.com/ar33h
-  - title: vimeo
+  - title: Vimeo
     url: https://vimeo.com/ar33h
-  - title: github
-    url: https://github.com/ar33h
+  
   
 # Build settings
 markdown: kramdown

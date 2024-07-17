@@ -9,7 +9,7 @@
       <p>{{project.description}}</p>
       <div class="project__used">
         {% for item in project.used %}
-        <span class="project__used__item">{{item.thing}}</span>
+        <span class="project__used__item"><a href="{{project.code}}" target="_blank">{{item.thing}}</a></span>
         {% endfor %}
       </div>
     </div>
