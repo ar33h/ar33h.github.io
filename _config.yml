@@ -1,15 +1,13 @@
 # Site settings
 name: Arshdeep's Portfolio
 title: Arsh, who?
-description: Cybersecurity Graduate Student at Pace University, New York
-url: https://ar33h.github.io/
+description: A technologist who thrives on finding solutions for challenges in the ever-evolving digital space – writing secure code, optimizing processes & ensuring customer success with products.
+url: https://arshdeepsingh.me
 baseurl: ""
 # destination: ./docss
 email: arshdeep.singh4@pace.edu
 logo: https://ar33h.github.io/assets/images/favicon.png
 social:
-  - title: Resume
-    url: https://ar33h.github.io/assets/resume/singh.pdf
   - title: LinkedIn
     url: https://www.linkedin.com/in/ar33h
   - title: Instagram
