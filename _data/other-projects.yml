@@ -1,5 +1,13 @@
+- name: NBLK Consulting Experiential Learning Challenge  
+  url: https://www.linkedin.com/posts/niyati-patil_ai-datascience-nlp-activity-7313996098312818690-cvLD
+  code: https://www.linkedin.com/posts/niyati-patil_ai-datascience-nlp-activity-7313996098312818690-cvLD
+  description: Built FitWise, an AI-powered hiring platform focused on smart, accessible and humanized recruitment, especially for small businesses.
+  used:
+    - thing: March 2025
+    - thing: Pace University, New York
+
 - name: Visa Climate Tech  
-  url: https://visaclimatetechhackathon2024-platform.bemyapp.com/#/event
+  url: https://youtu.be/5bt47bYCir0
   code: https://github.com/ar33h/bettr_earth/
   description: Designed a sustainable shopping assistant prototype that addresses the critical need for eco-friendly grocery purchasing by providing consumers with accessible information on the environmental impact of their products. 
   used:
@@ -13,14 +21,6 @@
   used:
     - thing: April 2024
     - thing: Pace University, New York
-
-- name: SESMIC 
-  url: https://sesmic.sitpune.edu.in/
-  code: https://raw.githubusercontent.com/ar33h/ar33h.github.io/main/assets/certificates/sesmic.pdf
-  description: Demonstrated a case study on the performance of Wi-Fi sniffers and designed a solution to mitigate potential security risks of deauthentication attacks and presented these findings in a report.
-  used:
-    - thing: Dec 2022
-    - thing: SIU, Pune
 
 - name: I-nnovate 
   url: https://www.intelliswift.com/
